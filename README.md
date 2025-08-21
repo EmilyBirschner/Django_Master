@@ -37,7 +37,7 @@ Se você deseja explorar os exemplos, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/EmilyBirschner/Django_Master.git](https://github.com/EmilyBirschner/Django_Master.git)
+    git clone https://github.com/EmilyBirschner/Django_Master.git
     ```
 
 2.  **Navegue até o diretório:**
